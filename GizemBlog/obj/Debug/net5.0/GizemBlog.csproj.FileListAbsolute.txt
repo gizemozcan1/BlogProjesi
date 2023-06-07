@@ -223,3 +223,16 @@ C:\Users\201\Desktop\GizemBlog\GizemBlog\obj\Debug\net5.0\Razor\Areas\Admin\View
 C:\Users\201\Desktop\GizemBlog\GizemBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Components\Statistic4\Default.cshtml.g.cs
 C:\Users\201\Desktop\GizemBlog\GizemBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Chart\Index.cshtml.g.cs
 C:\Users\201\Desktop\GizemBlog\GizemBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Writer\Index.cshtml.g.cs
+C:\Users\201\Desktop\GizemBlog\GizemBlog\bin\Debug\net5.0\BlogApiDemo.deps.json
+C:\Users\201\Desktop\GizemBlog\GizemBlog\bin\Debug\net5.0\BlogApiDemo.runtimeconfig.json
+C:\Users\201\Desktop\GizemBlog\GizemBlog\bin\Debug\net5.0\BlogApiDemo.runtimeconfig.dev.json
+C:\Users\201\Desktop\GizemBlog\GizemBlog\bin\Debug\net5.0\BlogApiDemo.exe
+C:\Users\201\Desktop\GizemBlog\GizemBlog\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\201\Desktop\GizemBlog\GizemBlog\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\201\Desktop\GizemBlog\GizemBlog\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\201\Desktop\GizemBlog\GizemBlog\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\201\Desktop\GizemBlog\GizemBlog\bin\Debug\net5.0\BlogApiDemo.dll
+C:\Users\201\Desktop\GizemBlog\GizemBlog\bin\Debug\net5.0\BlogApiDemo.pdb
+C:\Users\201\Desktop\GizemBlog\GizemBlog\obj\Debug\net5.0\Razor\Views\EmployeeTest\AddEmployee.cshtml.g.cs
+C:\Users\201\Desktop\GizemBlog\GizemBlog\obj\Debug\net5.0\Razor\Views\EmployeeTest\Index.cshtml.g.cs
+C:\Users\201\Desktop\GizemBlog\GizemBlog\obj\Debug\net5.0\Razor\Views\EmployeeTest\EditEmployee.cshtml.g.cs
